@@ -1,0 +1,19 @@
+{
+    "messageVersion": "1.0",
+    "invocationSource": "FulfillmentCodeHook",
+    "userId": "user-1",
+    "sessionAttributes": {},
+    "bot": {
+      "name": "gasStationsNearBy",
+      "alias": "$LATEST",
+      "version": "$LATEST"
+    },
+    "outputDialogMode": "Text",
+    "currentIntent": {
+      "name": "gasStationsNearBy",
+      "slots": {
+        "gpsCodes": "18.000055,79.588165"
+      },
+      "confirmationStatus": "None"
+    }
+  }
